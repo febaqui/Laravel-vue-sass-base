@@ -2,7 +2,6 @@
 
 @section('content')
     <section>
-        hola
-        <hola></hola>
+        Login
     </section>
 @endsection
