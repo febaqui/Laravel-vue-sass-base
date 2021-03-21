@@ -31,9 +31,7 @@ class FortifyServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        Fortify::registerView(function (){
-            return view('auth.register');
-        });
+        Fortify::registerView(function (){return view('auth.register');});
 
         Fortify::loginView(function () {return view('auth.login');});
 
