@@ -12,6 +12,10 @@
 
     <link href="{{ mix('/css/app.css') }}" rel="stylesheet">
 
+    <link rel="icon"
+          type="image/png"
+          href="http://example.com/myicon.png">
+
     <style>
         body {
             margin: 0;
