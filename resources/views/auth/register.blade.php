@@ -2,6 +2,6 @@
 
 @section('content')
     <section>
-        Login
+        Register
     </section>
 @endsection
